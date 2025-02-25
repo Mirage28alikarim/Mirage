@@ -48,7 +48,7 @@
 <body>
     <div class="container">
         <h1>Бакыт Аликадыр - Портфолио</h1>
-        <img src="1.JPG" alt="Менің суретім">
+        <img src="[1.JPG](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%221.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-02-25T05%3A09%3A16.205Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F20fa932d3c3545e4%2F1.jpg%3FExpires%3D1835068156%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DhGS0O6mvFN9gQSHaZYAabtSnXF2jaAInLmVbvfvfErwbpF1YlkjBZLXu-NwA76FHrDXzjL9moWKHfRMhu0f4igckhKUIuVQ5AWlGWSYFHeHw2Jh7EN2MD049xR68f0p3CUK~XJV2Lp2PIkKUepKB4Omq8rwKXfJGSNVLnE8sglxz06DxcP3LWM6oXjlo~ICdGvSA9gB3WXDOCBWjDTE1Mpd-DKV3wnitsaIXEEujNuA8EA5XMV-GVuAJ6C~bw5ico9hj15TmVk2X3e3epo96i0ZjGRTsfo4i9ww6l6N8age~wz~n9UubsfpN4ZnN0McyhdehZI4-3Ed4AxkS4FIArw__%22%7D)" alt="Менің суретім">
         
         <h2>Автобиография</h2>
         <p>Мен, Бакыт Аликадыр, 16 жастамын. "Карлыгаш" балабақшасында білім алып, кейін 66 мектепке түстім. 5-сыныпқа дейін сол жерде оқыдым, содан кейін Астана қаласындағы РФМШ-ға ауысып, 9-сыныпқа дейін оқыдым. Қазір Алматы қаласындағы РФМШ-ның 10-сыныбында білім алып жатырмын.</p>
